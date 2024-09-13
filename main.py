@@ -43,7 +43,7 @@ for i in range(num_of_invaders):
     invader_img.append(pygame.image.load('alien-on-ufo.png'))
     invaderX.append(random.randint(10, 726))
     invaderY.append(random.randint(50, 300))
-    invaderX_change.append(1) 
+    invaderX_change.append(2) 
     invaderY_change.append(40)
 # Bullets
 # status- ready- invisible
@@ -148,10 +148,10 @@ while run:
 
         invaderX[i] += invaderX_change[i]
         if invaderX[i] <= 10: # boundary set for enemy
-            invaderX_change[i] = 1
+            invaderX_change[i] = 2
             invaderY[i] += invaderY_change[i]
         elif invaderX[i] >= 726:
-            invaderX_change[i] = -1
+            invaderX_change[i] = -2
             invaderY[i] += invaderY_change[i]
         
         # collision check

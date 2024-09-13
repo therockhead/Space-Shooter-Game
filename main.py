@@ -37,7 +37,7 @@ invaderX = []
 invaderY = []
 invaderX_change = []
 invaderY_change = []
-num_of_invaders = 6
+num_of_invaders = 10
 
 for i in range(num_of_invaders):
     invader_img.append(pygame.image.load('alien-on-ufo.png'))

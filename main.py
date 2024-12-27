@@ -4,7 +4,7 @@ import random
 from pygame import mixer
 
 
-# just initial korte arki (Just to initialize pygame)
+# just initiate korte arki (Just to initialize pygame)
 pygame.init()
 
 screen_width = 800

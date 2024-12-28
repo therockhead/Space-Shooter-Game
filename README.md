@@ -3,8 +3,9 @@ Humanity against Alien Invasion XD.. Made this for my little brother.. gone thro
 
 To Play, Follow the steps-
 1. Download the zip file from the github repo
-2. Install VS code/Pycharm from webstore.
-3. Open the folder with VS code/Pycharm
-4. Make sure you have python installed on your PC. otherwise, download from here https://www.python.org/
-5. download python extension in vs code.
-6. run and play
+2. You will see this .exe file with the icon
+   ![image](https://github.com/user-attachments/assets/edbb78ae-fc9e-44dc-aacb-5ff57f623a0c)
+3. double click and play.
+4. You can add a shortcut to the desktop like this
+   ![image](https://github.com/user-attachments/assets/ed8fd7b0-c2dd-46d7-a4f4-42bc441daeb2)
+
